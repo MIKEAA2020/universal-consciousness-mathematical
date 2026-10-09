@@ -99,3 +99,7 @@ A claim may only be called "provisionally accepted, pending [specific verificati
 | P12 | graviton sector | NEW — included in Sen audit + VD notebook | heat-kernel traces vs literature |
 
 **Net epistemic position after this session:** the framework's two load-bearing quantitative channels (c_log and N_eff) both required the graviton sector, which both files omit; one of them (c_log) additionally had wrong signs and coefficients in its matter part, and its primary-source citations were wrong. The falsifiability architecture survives; the numbers do not.
+
+---
+
+**Framework ruling recorded (2026-10-09, later session):** `framework/WORKING_FRAMEWORK.md` (Articles II–IV) is now binding for the whole project. Interpretation-level consequences only — no numerical statuses in this ledger change: P5's Branch B numbers remain dead; P9 remains VERIFIED-matter / open-graviton, with its reading fixed as a statement *within appearance* about a model choice (not a metaphysical exclusion); P6 still awaits the user's derive-or-withdraw decision; the graviton sector remains mandatory in the entropy channel (P4, P12); P10's falsifiers stand unchanged. The Sakharov inducement program loses metaphysical eligibility under the grounding doctrine (gravity ∥ fields; neither induces the other) but keeps conventional-level standing as bookkeeping within appearance. Branch A is the working frame — see `decisions/branch_a_vs_b.md` §5.

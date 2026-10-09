@@ -39,3 +39,21 @@
 **Condition to revisit:** Branch B becomes the rational choice if (i) the completed spin-2 heat kernel leaves $N_{\rm eff}^{\rm SM+graviton} \le 0$ (pure inducement then *fails* — note this would strengthen, not weaken, the exclusion claim while killing Branch B), or (ii) the user regards pure inducement as intrinsic to the metaphysical intuition (a frame-level commitment that no computation can settle — but then it should be stated as a postulate in the axioms, not smuggled in as a consequence of R0).
 
 **Either way, the next irreversible steps are the same:** finish the graviton sector of the VD notebook (Christensen–Duff cross-check), replace every c_log in the documents with the Sen-convention values including +424/90, and re-run the falsification table in `analysis/prediction_ledger.md` before any number is called a prediction.
+
+---
+
+## 5. Addendum (2026-10-09, later session): the grounding doctrine settles Axis 1
+
+After this memo was written, the user issued a binding framework ruling (recorded verbatim in `framework/WORKING_FRAMEWORK.md`, Article III):
+
+> "both gravity and fields are grounded in universal consciousness. Fields cannot serve as grounding, because they are themselves grounded. in conventional/subjective terms, gravity and fields are both 'caused' by consciousness, and as such are parallel. neither has causal powers to give rise to or induce."
+
+Consequences for this memo:
+
+1. **Axis 1 is closed.** "Is pure inducement part of the metaphysics?" — **No.** Pure Sakharov inducement attributes to fields the power to give rise to gravity; the ruling prohibits exactly that. $G_{\rm bare}=0$ as a *non-negotiable postulate* is not merely an "extra aesthetic belt element" (§3.1) — elevated to metaphysics it is a category error under the constitution (Article III.2).
+2. **Revisit condition (ii) is closed.** The memo's escape hatch — "the user regards pure inducement as intrinsic to the metaphysical intuition" — is excluded by the user's own ruling. Only condition (i) remains: if the completed spin-2 heat kernel leaves $N_{\rm eff}^{\rm SM+graviton} \le 0$, that reopens the *exclusion claim* (P9), not Branch B's metaphysical status, which is now settled at the frame level.
+3. **Branch A stands on two independent grounds.** Evidential (§4: all three audits; Branch B's advertised numbers dead, P5) and constitutional (gravity ∥ fields; no horizontal grounding relation in either direction). Branch B survives only as a conventional-level model variant — a parameter choice inside App(A), without postulate status.
+4. **P9's reading is fixed, its physics unchanged.** "SM minimal + $G_{\rm bare}=0$ excluded" remains a statement *within appearance* about a model choice; the graviton completion (Christensen–Duff cross-check) still decides its sign, exactly as §2(b) says.
+5. **Nothing else changes.** The next irreversible steps in §4 (finish the graviton sector, replace every c_log with Sen-convention values including +424/90, re-run the falsification table) stand as written.
+
+**Standing recommendation, upgraded:** **HOLD BRANCH A as the working frame** — now constitutionally aligned, not merely evidentially preferable. Branch B: not locked, and no longer postulate-eligible.
