@@ -42,18 +42,20 @@
 
 ---
 
-## 5. Addendum (2026-10-09, later session): the grounding doctrine settles Axis 1
+## 5. Addendum (2026-10-09, later session): the grounding doctrine and the conventional-level ruling close the branch question
 
-After this memo was written, the user issued a binding framework ruling (recorded verbatim in `framework/WORKING_FRAMEWORK.md`, Article III):
+After this memo was written, the user issued two binding framework rulings (recorded verbatim in `framework/WORKING_FRAMEWORK.md`, Articles III and IV.1, Amendments 1–2):
 
 > "both gravity and fields are grounded in universal consciousness. Fields cannot serve as grounding, because they are themselves grounded. in conventional/subjective terms, gravity and fields are both 'caused' by consciousness, and as such are parallel. neither has causal powers to give rise to or induce."
 
+> "branch be [B] is false even on conventional level."
+
 Consequences for this memo:
 
-1. **Axis 1 is closed.** "Is pure inducement part of the metaphysics?" — **No.** Pure Sakharov inducement attributes to fields the power to give rise to gravity; the ruling prohibits exactly that. $G_{\rm bare}=0$ as a *non-negotiable postulate* is not merely an "extra aesthetic belt element" (§3.1) — elevated to metaphysics it is a category error under the constitution (Article III.2).
-2. **Revisit condition (ii) is closed.** The memo's escape hatch — "the user regards pure inducement as intrinsic to the metaphysical intuition" — is excluded by the user's own ruling. Only condition (i) remains: if the completed spin-2 heat kernel leaves $N_{\rm eff}^{\rm SM+graviton} \le 0$, that reopens the *exclusion claim* (P9), not Branch B's metaphysical status, which is now settled at the frame level.
-3. **Branch A stands on two independent grounds.** Evidential (§4: all three audits; Branch B's advertised numbers dead, P5) and constitutional (gravity ∥ fields; no horizontal grounding relation in either direction). Branch B survives only as a conventional-level model variant — a parameter choice inside App(A), without postulate status.
-4. **P9's reading is fixed, its physics unchanged.** "SM minimal + $G_{\rm bare}=0$ excluded" remains a statement *within appearance* about a model choice; the graviton completion (Christensen–Duff cross-check) still decides its sign, exactly as §2(b) says.
-5. **Nothing else changes.** The next irreversible steps in §4 (finish the graviton sector, replace every c_log with Sen-convention values including +424/90, re-run the falsification table) stand as written.
+1. **Axis 1 is closed.** "Is pure inducement part of the metaphysics?" — **No.** Pure Sakharov inducement attributes to fields the power to give rise to gravity; Article III prohibits exactly that. $G_{\rm bare}=0$ as a *non-negotiable postulate* is not an "extra aesthetic belt element" (§3.1) — as metaphysics it is a category error under the constitution (Article III.2).
+2. **Branch B is excluded at the conventional level as well (Amendment 2).** The recorded evidential basis: every distinctive quantitative claim of Branch B is withdrawn or verified-wrong (P5: its advertised numbers, both sign and magnitude, under Sen's conventions; P9: the pure-inducement sign condition $N_{\rm eff} > 0$ fails in the matter sector, $-23/12$), and its required new fields — 12 vector-like Dirac fermions, light but dark — have no independent support and are internally unstable under the asymptotic-freedom/decoupling constraint (§3.2, O:2657). Branch B has no status as a model variant. The generic inducement *bookkeeping computation* (heat-kernel arithmetic over field contents) is permissible under Article III.3 and is not Branch B.
+3. **Both revisit conditions are closed.** Condition (ii) ("the user regards pure inducement as intrinsic") is excluded by the user's own ruling. Condition (i) (the completed spin-2 heat kernel) has technical scope only: if it leaves $N_{\rm eff}^{\rm SM+graviton} \le 0$, that changes the status of the exclusion *claim* (P9) — a statement within appearance about a model choice — and has no effect on Branch B's status, which is settled at both levels.
+4. **Branch A has two independent grounds.** Evidential (§4: all three audits; Branch B's distinctive content withdrawn or verified-wrong) and constitutional (gravity ∥ fields; no horizontal grounding relation in either direction; the conventional-level ruling). **Branch A is the working frame.**
+5. **Nothing else changes.** The next irreversible steps in §4 (complete the graviton sector of the VD notebook with the Christensen–Duff cross-check, replace every c_log with the Sen-convention values including +424/90, re-run the falsification table) have their technical scope unchanged; their wording follows the objective-wording rule (Amendment 1).
 
-**Standing recommendation, upgraded:** **HOLD BRANCH A as the working frame** — now constitutionally aligned, not merely evidentially preferable. Branch B: not locked, and no longer postulate-eligible.
+**Decision recorded:** **BRANCH A — the working frame.** Branch B: **EXCLUDED at both levels** (metaphysical: Article III; conventional: user ruling with the evidential basis above). The inducement bookkeeping computation continues as conventional-level arithmetic without branch status.

@@ -1,0 +1,42 @@
+{
+  "target": 2.3e-21,
+  "results": {
+    "M1": {
+      "formula": "g*h/c^2",
+      "value": 1.0911369672198217e-16,
+      "log10": -15.962120730278587
+    },
+    "M2": {
+      "formula": "E_clock/mc^2 (max entanglement-induced modulation)",
+      "value": 2.1927452820931022e-11,
+      "log10": -10.659011814745794
+    },
+    "M3": {
+      "lambda_G": 4.3968112879439516e-35,
+      "phase_rate_rad_s": 1.3181308633748628e-26,
+      "fractional_rate_bound": 4.887543276489352e-42,
+      "log10_bound": -41.310909384141894
+    },
+    "M4": {
+      "linear_rest": 6.630791948125508e-18,
+      "quadratic_rest": 4.396740185932607e-35,
+      "linear_clock": 1.4539637760793135e-28,
+      "quadratic_clock": 2.1140106621508163e-56
+    },
+    "M5": {
+      "(l_p/R)^2": 2.6122802250250003e-70,
+      "values": {
+        "O(1)": 2.6122802250250003e-70,
+        "Avogadro_scale_1e30": 2.6122802250250003e-40,
+        "area_law_1m2": 0.25
+      },
+      "S_ent_required_for_target": 8.804568430165215e+48
+    },
+    "retrofit_diagnostic": {
+      "lambda_um": 21.0789302268836,
+      "note": "g*lambda/c^2 equals the claimed number for lambda = this value"
+    }
+  },
+  "any_model_matches": false,
+  "outcome": "not_specifiable"
+}

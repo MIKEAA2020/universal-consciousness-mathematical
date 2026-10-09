@@ -63,3 +63,34 @@ Model selection criterion (fixed before computation): the five classes below are
 - If producing 2.3×10⁻²¹ requires introducing or adjusting any parameter not fixed above, outcome = **not specifiable**; P6 is withdrawn immediately (rule 5).
 
 *Part II (computation and report) follows in a separate commit after this one. Part I is frozen from this commit onward.*
+
+---
+
+## Part II — Computation and report (computed after commit 0237940)
+
+Computation: `analysis/p6_models.py`; raw output `analysis/p6_results.json`. All constants exactly as pre-registered; no parameter adjusted.
+
+| Model | Pre-registered quantity | Value | Ratio to 2.3×10⁻²¹ |
+|---|---|---|---|
+| M1 (GR redshift) | gh/c², h = 1 m | 1.091×10⁻¹⁶ | 4.7×10⁴ |
+| M2 (quantum time dilation) | E_clock/mc² bound | 2.193×10⁻¹¹ | 9.5×10⁹ |
+| M3 (gravitational entanglement) | λ_G = Gm²/(ħc); fractional rate bound | 4.397×10⁻³⁵; ≤ 4.9×10⁻⁴² | 2.1×10⁻²¹ (bound) |
+| M4 (Planck-suppressed MDR, ξ=1) | linear/quadratic, rest energy | 6.63×10⁻¹⁸ / 4.40×10⁻³⁵ | 2.9×10³ / 1.9×10⁻¹⁴ |
+| M4 (same, clock transition energy) | linear/quadratic | 1.45×10⁻²⁸ / 2.11×10⁻⁵⁶ | ≪ target |
+| M5 (source documents' mechanism) | (l_p/R)²·S_ent, S ∈ {1, 10³⁰, A/4l_p²} | 2.6×10⁻⁷⁰ … 2.6×10⁻⁴⁰ (area bound: 0.25) | 10⁻⁴⁹ … 10⁻¹⁹ (area: 10²⁰) |
+
+**No pre-registered model produces 2.3×10⁻²¹.** The mismatches run in both directions (M1, M2, M4-linear are orders of magnitude too large; M3, M4-quadratic, M5 are orders too small), and no state-, geometry-, or entropy-choice within any model's own parameter space lands on the claimed value without a parameter introduced after the fact. M5, the source documents' own mechanism, is the sharpest case: the value of S_ent required is 8.8×10⁴⁸, which matches no defensible entropy of any 1 m system (few-qubit: O(1); many-body: ≤ 10³⁰; holographic area bound: 9.6×10⁶⁸) and was never stated in either source file.
+
+**Retrofit diagnostic.** The claimed number has an exact alternative origin:
+
+$$2.3\times10^{-21} = \frac{g\,\lambda}{c^2}\Big|_{\lambda = 21.08\ \mu{\rm m}}$$
+
+That is the classical gravitational redshift across a length of 21.08 μm — which lies inside the withdrawn claim P1's Yukawa range (18–25 μm, midpoint 21.5 μm → 2.35×10⁻²¹). The number is a composition of the source documents' own dead parameters (g·λ_P1/c²), not the output of any model. This is the reverse-engineering signature that rule 5 defines as the hallucination case.
+
+## Outcome
+
+**NOT SPECIFIABLE.** Per the pre-registered decision rule (rule 5): P6 is withdrawn immediately. No model produces the number without post-hoc parameter introduction; the number's actual origin is the classical redshift across the withdrawn P1 Yukawa length.
+
+**Ledger disposition:** P6 → `WITHDRAWN`. The falsifier history is retained for audit: any strontium-clock entanglement experiment with sensitivity at the 10⁻²¹ fractional level would have tested the claim had it survived derivation; the derivation test itself is what killed it. A future clock-shift entry in the ledger is admissible only in the form "model X (Lagrangian, cutoff, coupling, clock type stated in full), consistent with the framework, predicts Y" — with the model specified before the computation, per this document's protocol.
+
+**Framework status of this result:** the withdrawal is a statement about a claim that appeared in the source documents; the framework (level 1) is not the source of any number and is unaffected. The level discipline is exactly the structure the user's ruling prescribes: models produce numbers; the framework permits models as appearances.

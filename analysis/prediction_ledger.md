@@ -4,6 +4,8 @@
 
 **Protocol (replaces the word "locked"):**
 
+**Level discipline (user ruling, 2026-10-09):** the framework (level 1: pure self-luminous awareness) produces no numbers. Every quantitative entry in this ledger is a prediction of a **stated conventional-level model** — the model's assumptions, equations, and falsifiers are explicit. Entry wording takes the form "model X, consistent with the framework, predicts Y"; never "the framework predicts Y". The framework permits models to exist as appearances; it is not the source of their numbers. **Admission rule (same ruling):** the ledger contains only claims with explicit derivations or explicit falsification conditions. Items with neither are not predictions; they are recorded in the Annex of open problems.
+
 Every quantitative claim carries one of five states and a falsifier:
 - `PROPOSED` — stated, not derived
 - `DERIVED` — follows from stated assumptions with a checkable computation
@@ -46,9 +48,10 @@ A claim may only be called "provisionally accepted, pending [specific verificati
 - **Falsifier:** same channel as P4; additionally the 12 vector-like Dirac fermions must be light-but-dark (else they decouple below TeV and the induction fails again — O:2657).
 
 ### P6 — Entanglement-time-dilation clock shift: δν/ν = 2.3 × 10⁻²¹ (Sr, 1 m)
-- **Origin:** O:1871/D:2323. **Status:** UNCHANGED — and this is the standing integrity defect: **no derivation exists anywhere in either file** (no computation connects (l_p/R)²·S_ent to any modular-Hamiltonian expectation), yet it is labeled "Safe, unique" (O:2235/D:2911) and survives every audit round.
-- **Required action:** derive it or withdraw it. Falsifier: any Sr-clock entanglement experiment measuring no shift at 10⁻²¹ — but the claim must first be derived to be falsifiable at all.
-- **Decision needed from user:** treat as PROPOSED (default) or WITHDRAWN.
+- **Origin:** O:1871/D:2323. Labeled "Safe, unique" (O:2235/D:2911) with no derivation anywhere in either file.
+- **Status: WITHDRAWN (2026-10-09), outcome NOT SPECIFIABLE.** A pre-registered derivation attempt was executed under the user's protocol (model specified first in full — Lagrangian, cutoff, coupling, clock type — committed to git *before* computation; no tuning permitted): see `analysis/p6_derivation_attempt.md` (pre-registration commit 0237940; computation committed separately). Five canonical model classes were computed forward: M1 classical GR redshift (1.09×10⁻¹⁶); M2 quantum time dilation bound E_clock/mc² (2.2×10⁻¹¹); M3 gravitationally mediated entanglement (≤ 4.9×10⁻⁴²); M4 Planck-suppressed modified dispersion with pre-registered ξ = 1 (6.6×10⁻¹⁸ linear / 4.4×10⁻³⁵ quadratic); M5 the source documents' own (l_p/R)²·S_ent mechanism (10⁻⁷⁰–10⁻⁴⁰ over the defensible entropy range; requires S_ent = 8.8×10⁴⁸, matching no entropy of any 1 m system). None yields 2.3×10⁻²¹ without post-hoc parameters. Retrofit diagnostic: 2.3×10⁻²¹ = g·λ/c² with λ = 21.08 μm — the classical redshift across the **withdrawn P1 Yukawa range** (18–25 μm): the number is a composition of the source documents' own withdrawn parameters, the reverse-engineering signature of the hallucination case. Per pre-registered rule 5: withdrawn immediately.
+- **Falsifier (historical, retained for audit):** the derivation test itself (this entry); experimentally, any Sr-clock entanglement measurement at 10⁻²¹ fractional sensitivity — moot after withdrawal.
+- **Standing rule for any successor entry:** admissible only as "model X (specified in full before computation), consistent with the framework, predicts Y" — the pre-registration protocol of `analysis/p6_derivation_attempt.md`.
 
 ### P7 — Dark-matter mass: m = 0.8 × 10⁻²² eV · (χ/4)^1.3
 - **Origin:** O:1877/D:2329. **Status:** SILENTLY-DROPPED from later falsification tables (O:2883–2895) — the exact defect this ledger exists to eliminate.
@@ -72,8 +75,7 @@ A claim may only be called "provisionally accepted, pending [specific verificati
 - **Sub-claim disposition:** the "δA*/4G + δS* = 0 at 10⁻²" piece is NOT tested by the light 1D run (it requires the 2D/3D geometry pipeline or an explicit first-law-of-entanglement test with the coarse-graining map); it is carried as UNVERIFIED and must not be cited as executed.
 
 ### P11 — Λ selection: "MCE extremum selects Λ_obs ~ 10⁻¹²² m_p⁴"
-- **Origin:** O:1823. **Status:** ADMITTED-UNSOLVED (one-line hand-wave in the files; never revisited by any correction round).
-- **Falsifier:** none statable until a mechanism is proposed. Carried as an open problem, not a prediction.
+- **Origin:** O:1823. **Status: NOT LEDGER-ELIGIBLE** (neither a derivation nor a falsification condition exists; one-line hand-wave in the files, never revisited by any correction round). Moved to the Annex of open problems. No falsifier is statable until a mechanism is proposed.
 
 ### P12 — Graviton-sector contributions to entropy and inducement
 - **Origin:** absent from both files (user-flagged). **Status:** NEW ENTRY, VERIFIED-present-in-literature: the graviton loop is +424/90 in Sen's non-extremal C_local (the largest single term), and the "23"/16/45 in extremal results. In the inducement channel it enters via tr a₁ of the graviton+ghost system — computed in `vd/vd_cancellation.ipynl`/`.ipynb`.
@@ -90,16 +92,22 @@ A claim may only be called "provisionally accepted, pending [specific verificati
 | P3 | c_log = −11.06 | WITHDRAWN | factor-2 conversion |
 | P4 | c_log = −5.03 | **VERIFIED WRONG → replaced by Sen values (+1.54 ln A_H, SM)** | microscopic counting ≠ +1.54 |
 | P5 | c_log^B = −5.50 | **VERIFIED WRONG → +4.02 ln a** | same |
-| P6 | clock 2.3×10⁻²¹ | PROPOSED (no derivation) — decide: derive or withdraw | Sr entanglement experiment (after derivation) |
+| P6 | clock 2.3×10⁻²¹ | **WITHDRAWN (not specifiable: pre-registered 5-model attempt, none yields it; number = g·λ_P1/c² retrofit)** | the derivation test itself (executed) |
 | P7 | DM 0.8×10⁻²² eV | WITHDRAWN (was silently dropped) | — |
 | P8 | r = 0.0041 | CONDITIONAL | CMB-S4 r > 0.01 |
 | P9 | N_eff = −23/12 ⇒ G_bare=0 excluded | VERIFIED (matter sector, notebook) — graviton sector open | BSM ΔN_Weyl ≥ 24; graviton sign flip |
 | P10 | MERA d*∝d_graph, R²=0.991, … | FABRICATED → REAL numbers in (c=0.51 ✓, R²=0.71–0.88, MDS dim=2) | real contractions + negative control |
-| P11 | Λ selection mechanism | OPEN (not a prediction) | — |
+| P11 | Λ selection mechanism | NOT LEDGER-ELIGIBLE → Annex | — |
 | P12 | graviton sector | NEW — included in Sen audit + VD notebook | heat-kernel traces vs literature |
 
-**Net epistemic position after this session:** the framework's two load-bearing quantitative channels (c_log and N_eff) both required the graviton sector, which both files omit; one of them (c_log) additionally had wrong signs and coefficients in its matter part, and its primary-source citations were wrong. The falsifiability architecture survives; the numbers do not.
+**Net epistemic position after this session:** the framework's two principal quantitative channels (c_log and N_eff) both require the graviton sector, which both files omit; one of them (c_log) additionally has wrong signs and coefficients in its matter part, and its primary-source citations are wrong. The falsifiability architecture survives; the numbers do not. P6's withdrawal under pre-registration closes the last undated "Safe, unique" claim: every quantitative claim originating in the source documents is now derived, verified, verified-wrong, or withdrawn — none remains in the neither-derived-nor-falsified state.
 
 ---
 
-**Framework ruling recorded (2026-10-09, later session):** `framework/WORKING_FRAMEWORK.md` (Articles II–IV) is now binding for the whole project. Interpretation-level consequences only — no numerical statuses in this ledger change: P5's Branch B numbers remain dead; P9 remains VERIFIED-matter / open-graviton, with its reading fixed as a statement *within appearance* about a model choice (not a metaphysical exclusion); P6 still awaits the user's derive-or-withdraw decision; the graviton sector remains mandatory in the entropy channel (P4, P12); P10's falsifiers stand unchanged. The Sakharov inducement program loses metaphysical eligibility under the grounding doctrine (gravity ∥ fields; neither induces the other) but keeps conventional-level standing as bookkeeping within appearance. Branch A is the working frame — see `decisions/branch_a_vs_b.md` §5.
+**Framework ruling recorded (2026-10-09, later session):** `framework/WORKING_FRAMEWORK.md` (Articles II–IV) is binding for the whole project. Interpretation-level consequences only — no numerical statuses in this ledger change except P6 (resolved by pre-registered derivation attempt, not by the ruling): P5's Branch B numbers remain withdrawn/verified-wrong; P9 remains VERIFIED-matter / open-graviton, with its reading fixed as a statement *within appearance* about a model choice (not a metaphysical exclusion); the graviton sector remains mandatory in the entropy channel (P4, P12); P10's falsifiers are unchanged. The Sakharov inducement program has no metaphysical status under the grounding doctrine (gravity ∥ fields; neither induces the other); its computations remain conventional-level bookkeeping. **Branch B is excluded at both levels (user ruling, 2026-10-09: "branch be [B] is false even on conventional level")** — see `decisions/branch_a_vs_b.md` §5. The ledger's Branch-A-related entries (P4, P8, P9, P10) are model predictions under the level discipline above; Branch A is the working frame.
+
+---
+
+## Annex — Open problems (not ledger-eligible; no derivation or falsification condition exists)
+
+- **Λ selection.** No mechanism has been proposed by any correction round of the source documents or by this verification program. Admitted as an open problem only. An entry returns to the ledger when a model with explicit assumptions and a falsification condition exists.

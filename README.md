@@ -36,3 +36,15 @@ The constitution, this README, and `scripts/restore_framework.sh` live in this
 repository, which survives all sandbox resets. At session start, after
 re-cloning, run `bash scripts/restore_framework.sh` to redistribute the
 constitution into the live zones.
+
+## Session-reset protocol (credentials)
+
+Credentials never live in this repository (it is public; committing a token
+here would publish it). In-sandbox credential files are unreliable across
+resets — the observed pattern: non-credential files survive while
+credential-shaped files are wiped. The protocol: paste the fine-grained PAT
+once into `/home/z/my-project/.github_pat` after a reset, then run the
+self-healing restore script (7 redundant locations, including the git
+credential store) and the one-command push helper. The durable home of the
+token is the GitHub account itself (regenerable; fine-grained PATs carry an
+expiry).
