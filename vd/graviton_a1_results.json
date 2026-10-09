@@ -1,0 +1,41 @@
+{
+  "R": 12,
+  "einstein_ok": true,
+  "sigma_anchor_ok": true,
+  "ghost_c": "1",
+  "ghost_c_constant": true,
+  "TT_identity": "2Riem.h^sym = (R/6)(g.(g-trace h) - h) [verified] => on TT: X_TT = -R/6 (this convention)",
+  "TT_identity_ok": true,
+  "killing_L_zero": true,
+  "gradient_block_ok": true,
+  "k1": "3/2",
+  "k2": "R/2",
+  "coclosed_block_ok": true,
+  "w_grav_branches": [
+    [
+      "dS-graviton standard (m^2 = 2Lam/3): X_TT = +R/6",
+      2,
+      "-7/4",
+      "-33/16"
+    ],
+    [
+      "Solodukhin Eq.(133) X^(2) reading: X_TT = +R/3",
+      4,
+      "-27/4",
+      "-119/48"
+    ],
+    [
+      "this-convention literal (3.74): X_TT = -R/6",
+      -2,
+      "33/4",
+      "-59/48"
+    ],
+    [
+      "[withdrawn: slot-pairing error: X_TT = 0]",
+      0,
+      "13/4",
+      "-79/48"
+    ]
+  ],
+  "maxwell_disclosure": "York/Coulomb +R/24 vs Feynman -R/2 (off-shell gauge dependence)"
+}

@@ -134,3 +134,21 @@ Caveats stated by Sen himself: Eq. (1.2) assumes minimal coupling and no other i
 | Solodukhin cross-check (a,c vs Euler/Weyl basis) | Not fetched this session. Structural note: the trace-anomaly/entanglement route (Solodukhin's program) and Sen's partition-function route differ by the temperature-derivative and zero-mode terms; the opus's c_log = −4a(4π)² and c = 283/120 mixing of the two channels is not a valid identity in either. |
 
 **Bottom line:** the "c_log ≈ −5.03, still distinct from LQG/string" line that the opus left pending is unsalvageable as stated. Under Sen's actual conventions the SM (+gravity) non-extremal log coefficient is **positive** (+3.08 ln a ≈ +1.54 ln A_H before ensemble terms), the graviton sector is mandatory and dominant, and the LQG comparison remains a disagreement but with both signs and magnitudes different from what the files claim. The falsifiability structure survives (the coefficient is still a sharp, low-energy-determined number), but every number and the sign must be replaced before any ET/CE note or "lock".
+
+---
+
+## Addendum (2026-10-09, later session): the C_local = 3B − A identification and the graviton-sector anomaly structure
+
+Cross-checking Sen's Eq. (1.2) coefficients against the anomaly table in Solodukhin's review (arXiv:1104.3712, Eq. (275), from Duff/Birrell–Davies; A in 1/90π² units, B in 1/30π² units) yields an exact identification, verified across all five spins:
+
+**C_local = 3B − A per field** (in 1/90 units).
+
+| Field | A | 3B | C_local = 3B − A | Sen (1.2) |
+|---|---|---|---|---|
+| real scalar | 1 | 3 | 2 | +2 ✓ |
+| Dirac | 11 | 18 | 7 | +7 ✓ |
+| vector | 62 | 36 | −26 | −26 ✓ |
+| spin-3/2 | 0 | −233/2 | −233/2 | −233/2 ✓ |
+| graviton | 0 | 424 | 424 | +424 ✓ |
+
+Consequences: (1) the graviton's entropy-channel contribution is purely B-type (Weyl²) — its A-type (Euler) anomaly vanishes (Duff's observation, confirmed from two independent sources: Solodukhin Eq. (275) and, at the a₄-operator level, Vassilevich's Table 1 spin-2-with-ghosts row (212, 0, 0, 717/4) derived from Christensen–Duff NPB B154); (2) Sen's +424 = 3 × (424/3): the entropy channel and the Christensen–Duff anomaly table are one structure; (3) the graviton sector is now literature-anchored in both channels — see `vd/graviton_completion.md` for the inducement-channel computation. Sources fetched this session: Sen 1205.0971 full text (Eq. 1.2 and the "graviton loop" attribution verbatim; CD papers located in his bibliography as [45]/[46]); Vassilevich hep-th/0306138 full text (§3.5 York decomposition; Table 1); Solodukhin 1104.3712 full text (Eqs. 131–141, 275). Christensen–Duff NPB B154/B170 themselves remain unfetched (paywalled).

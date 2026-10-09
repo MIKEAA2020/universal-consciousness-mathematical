@@ -59,3 +59,9 @@ Consequences for this memo:
 5. **Nothing else changes.** The next irreversible steps in §4 (complete the graviton sector of the VD notebook with the Christensen–Duff cross-check, replace every c_log with the Sen-convention values including +424/90, re-run the falsification table) have their technical scope unchanged; their wording follows the objective-wording rule (Amendment 1).
 
 **Decision recorded:** **BRANCH A — the working frame.** Branch B: **EXCLUDED at both levels** (metaphysical: Article III; conventional: user ruling with the evidential basis above). The inducement bookkeeping computation continues as conventional-level arithmetic without branch status.
+
+---
+
+## 6. Resolution of condition (i) (2026-10-09, later session): the graviton-sector completion
+
+The spin-2 heat-kernel completion is executed in `vd/graviton_completion.md` (York route on the round S⁴; operator algebra verified exactly; sources: Sen 1205.0971, Vassilevich §3.5 + Table 1 from Christensen–Duff, Solodukhin Eqs. 131–141/275; new structural finding: Sen's C_local = 3B − A per field, graviton A = 0, B = 424/3). Result in the inducement channel: **N_eff^SM+graviton < 0 in every convention branch** (dS-standard X_TT = +R/6: −33/16; Solodukhin X⁽²⁾ reading: −119/48; literal-convention X_TT = −R/6: −59/48). Condition (i) has fired in the negative direction: the exclusion claim (P9 — a statement within appearance about a model choice) is strengthened; Branch B's status is unchanged (excluded at both levels by the user's rulings). Recorded caveat: the York/restricted-determinant a₁ bookkeeping is not validated against the standard de-Donder route (Maxwell cross-check discrepancy −13R/24 disclosed in §5 of the completion report); the Christensen–Duff NPB B170 de-Donder numbers (paywalled) remain the closing verification. With this, every technical reopen trigger for the branch decision is resolved; the standing decision is BRANCH A.
