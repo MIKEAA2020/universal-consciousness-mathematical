@@ -2,6 +2,7 @@
 
 **Status:** BINDING for the entire chat and for every artifact produced in it.
 **Origin:** user rulings issued 2026-10-09 (quoted verbatim in Articles I–III).
+**Source document (2026-10-10):** `uploads/absolute.txt` (user-uploaded to this repository) is the verbatim metaphysical statement; Article II reproduces its full text. User ruling (2026-10-10): it is the working assumption — the metaphysical framework for the entire chat — and everything produced must be in complete alignment with it, never violating it.
 **Canonical copy:** this file, in the GitHub repo `MIKEAA2020/universal-consciousness-mathematical` — the only store that survives every sandbox reset.
 **Amendment rule:** only by explicit user ruling, dated and quoted verbatim, appended to the Amendments section. Never silently.
 

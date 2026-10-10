@@ -1,0 +1,14 @@
+{
+ "N": 128,
+ "chi": 8,
+ "seed": 0,
+ "steps": 280,
+ "E_over_N_final": -1.273093719908502,
+ "E_over_N_best": -1.273095066077076,
+ "E_warmstart": -1.272726008,
+ "E_exact": -1.2732715032297468,
+ "rel_err_best": 0.0001385699375375632,
+ "rel_err_final": 0.00013962718932599254,
+ "full_energy_history": [],
+ "method": "warm start = exact embedding of the optimized N=128 chi=4 state (+0.03 normalized coupling, 1e-4 degeneracy guard); per-step CYCLIC chunked gradients (16 chunks x 16 terms; one live program per step); Adam lr 0.010 cosine-sq; exact full numpy c128 energy at milestones; best-checkpoint keyed on full energy (init = warm)"
+}

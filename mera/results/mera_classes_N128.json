@@ -1,0 +1,2055 @@
+{
+ "N": 128,
+ "bond_classes": [
+  {
+   "rep": 6,
+   "count": 1,
+   "members": [
+    6
+   ]
+  },
+  {
+   "rep": 70,
+   "count": 1,
+   "members": [
+    70
+   ]
+  },
+  {
+   "rep": 102,
+   "count": 1,
+   "members": [
+    102
+   ]
+  },
+  {
+   "rep": 68,
+   "count": 1,
+   "members": [
+    68
+   ]
+  },
+  {
+   "rep": 118,
+   "count": 1,
+   "members": [
+    118
+   ]
+  },
+  {
+   "rep": 38,
+   "count": 1,
+   "members": [
+    38
+   ]
+  },
+  {
+   "rep": 4,
+   "count": 1,
+   "members": [
+    4
+   ]
+  },
+  {
+   "rep": 54,
+   "count": 1,
+   "members": [
+    54
+   ]
+  },
+  {
+   "rep": 36,
+   "count": 1,
+   "members": [
+    36
+   ]
+  },
+  {
+   "rep": 100,
+   "count": 1,
+   "members": [
+    100
+   ]
+  },
+  {
+   "rep": 20,
+   "count": 1,
+   "members": [
+    20
+   ]
+  },
+  {
+   "rep": 22,
+   "count": 1,
+   "members": [
+    22
+   ]
+  },
+  {
+   "rep": 84,
+   "count": 1,
+   "members": [
+    84
+   ]
+  },
+  {
+   "rep": 86,
+   "count": 1,
+   "members": [
+    86
+   ]
+  },
+  {
+   "rep": 112,
+   "count": 1,
+   "members": [
+    112
+   ]
+  },
+  {
+   "rep": 48,
+   "count": 1,
+   "members": [
+    48
+   ]
+  },
+  {
+   "rep": 52,
+   "count": 1,
+   "members": [
+    52
+   ]
+  },
+  {
+   "rep": 106,
+   "count": 1,
+   "members": [
+    106
+   ]
+  },
+  {
+   "rep": 10,
+   "count": 1,
+   "members": [
+    10
+   ]
+  },
+  {
+   "rep": 116,
+   "count": 1,
+   "members": [
+    116
+   ]
+  },
+  {
+   "rep": 42,
+   "count": 1,
+   "members": [
+    42
+   ]
+  },
+  {
+   "rep": 74,
+   "count": 1,
+   "members": [
+    74
+   ]
+  },
+  {
+   "rep": 80,
+   "count": 1,
+   "members": [
+    80
+   ]
+  },
+  {
+   "rep": 16,
+   "count": 1,
+   "members": [
+    16
+   ]
+  },
+  {
+   "rep": 96,
+   "count": 1,
+   "members": [
+    96
+   ]
+  },
+  {
+   "rep": 28,
+   "count": 1,
+   "members": [
+    28
+   ]
+  },
+  {
+   "rep": 124,
+   "count": 1,
+   "members": [
+    124
+   ]
+  },
+  {
+   "rep": 92,
+   "count": 1,
+   "members": [
+    92
+   ]
+  },
+  {
+   "rep": 60,
+   "count": 1,
+   "members": [
+    60
+   ]
+  },
+  {
+   "rep": 64,
+   "count": 1,
+   "members": [
+    64
+   ]
+  },
+  {
+   "rep": 0,
+   "count": 1,
+   "members": [
+    0
+   ]
+  },
+  {
+   "rep": 32,
+   "count": 1,
+   "members": [
+    32
+   ]
+  },
+  {
+   "rep": 122,
+   "count": 1,
+   "members": [
+    122
+   ]
+  },
+  {
+   "rep": 108,
+   "count": 1,
+   "members": [
+    108
+   ]
+  },
+  {
+   "rep": 76,
+   "count": 1,
+   "members": [
+    76
+   ]
+  },
+  {
+   "rep": 12,
+   "count": 1,
+   "members": [
+    12
+   ]
+  },
+  {
+   "rep": 58,
+   "count": 1,
+   "members": [
+    58
+   ]
+  },
+  {
+   "rep": 24,
+   "count": 1,
+   "members": [
+    24
+   ]
+  },
+  {
+   "rep": 90,
+   "count": 1,
+   "members": [
+    90
+   ]
+  },
+  {
+   "rep": 44,
+   "count": 1,
+   "members": [
+    44
+   ]
+  },
+  {
+   "rep": 98,
+   "count": 1,
+   "members": [
+    98
+   ]
+  },
+  {
+   "rep": 26,
+   "count": 1,
+   "members": [
+    26
+   ]
+  },
+  {
+   "rep": 34,
+   "count": 1,
+   "members": [
+    34
+   ]
+  },
+  {
+   "rep": 72,
+   "count": 1,
+   "members": [
+    72
+   ]
+  },
+  {
+   "rep": 88,
+   "count": 1,
+   "members": [
+    88
+   ]
+  },
+  {
+   "rep": 8,
+   "count": 1,
+   "members": [
+    8
+   ]
+  },
+  {
+   "rep": 66,
+   "count": 1,
+   "members": [
+    66
+   ]
+  },
+  {
+   "rep": 104,
+   "count": 1,
+   "members": [
+    104
+   ]
+  },
+  {
+   "rep": 2,
+   "count": 1,
+   "members": [
+    2
+   ]
+  },
+  {
+   "rep": 40,
+   "count": 1,
+   "members": [
+    40
+   ]
+  },
+  {
+   "rep": 56,
+   "count": 1,
+   "members": [
+    56
+   ]
+  },
+  {
+   "rep": 82,
+   "count": 1,
+   "members": [
+    82
+   ]
+  },
+  {
+   "rep": 114,
+   "count": 1,
+   "members": [
+    114
+   ]
+  },
+  {
+   "rep": 120,
+   "count": 1,
+   "members": [
+    120
+   ]
+  },
+  {
+   "rep": 18,
+   "count": 1,
+   "members": [
+    18
+   ]
+  },
+  {
+   "rep": 50,
+   "count": 1,
+   "members": [
+    50
+   ]
+  },
+  {
+   "rep": 94,
+   "count": 1,
+   "members": [
+    94
+   ]
+  },
+  {
+   "rep": 30,
+   "count": 1,
+   "members": [
+    30
+   ]
+  },
+  {
+   "rep": 110,
+   "count": 1,
+   "members": [
+    110
+   ]
+  },
+  {
+   "rep": 46,
+   "count": 1,
+   "members": [
+    46
+   ]
+  },
+  {
+   "rep": 62,
+   "count": 1,
+   "members": [
+    62
+   ]
+  },
+  {
+   "rep": 126,
+   "count": 1,
+   "members": [
+    126
+   ]
+  },
+  {
+   "rep": 78,
+   "count": 1,
+   "members": [
+    78
+   ]
+  },
+  {
+   "rep": 14,
+   "count": 1,
+   "members": [
+    14
+   ]
+  },
+  {
+   "rep": 125,
+   "count": 1,
+   "members": [
+    125
+   ]
+  },
+  {
+   "rep": 61,
+   "count": 1,
+   "members": [
+    61
+   ]
+  },
+  {
+   "rep": 117,
+   "count": 1,
+   "members": [
+    117
+   ]
+  },
+  {
+   "rep": 37,
+   "count": 1,
+   "members": [
+    37
+   ]
+  },
+  {
+   "rep": 101,
+   "count": 1,
+   "members": [
+    101
+   ]
+  },
+  {
+   "rep": 53,
+   "count": 1,
+   "members": [
+    53
+   ]
+  },
+  {
+   "rep": 93,
+   "count": 1,
+   "members": [
+    93
+   ]
+  },
+  {
+   "rep": 29,
+   "count": 1,
+   "members": [
+    29
+   ]
+  },
+  {
+   "rep": 45,
+   "count": 1,
+   "members": [
+    45
+   ]
+  },
+  {
+   "rep": 109,
+   "count": 1,
+   "members": [
+    109
+   ]
+  },
+  {
+   "rep": 13,
+   "count": 1,
+   "members": [
+    13
+   ]
+  },
+  {
+   "rep": 5,
+   "count": 1,
+   "members": [
+    5
+   ]
+  },
+  {
+   "rep": 77,
+   "count": 1,
+   "members": [
+    77
+   ]
+  },
+  {
+   "rep": 69,
+   "count": 1,
+   "members": [
+    69
+   ]
+  },
+  {
+   "rep": 85,
+   "count": 1,
+   "members": [
+    85
+   ]
+  },
+  {
+   "rep": 71,
+   "count": 1,
+   "members": [
+    71
+   ]
+  },
+  {
+   "rep": 7,
+   "count": 1,
+   "members": [
+    7
+   ]
+  },
+  {
+   "rep": 21,
+   "count": 1,
+   "members": [
+    21
+   ]
+  },
+  {
+   "rep": 23,
+   "count": 1,
+   "members": [
+    23
+   ]
+  },
+  {
+   "rep": 39,
+   "count": 1,
+   "members": [
+    39
+   ]
+  },
+  {
+   "rep": 57,
+   "count": 1,
+   "members": [
+    57
+   ]
+  },
+  {
+   "rep": 103,
+   "count": 1,
+   "members": [
+    103
+   ]
+  },
+  {
+   "rep": 121,
+   "count": 1,
+   "members": [
+    121
+   ]
+  },
+  {
+   "rep": 87,
+   "count": 1,
+   "members": [
+    87
+   ]
+  },
+  {
+   "rep": 55,
+   "count": 1,
+   "members": [
+    55
+   ]
+  },
+  {
+   "rep": 119,
+   "count": 1,
+   "members": [
+    119
+   ]
+  },
+  {
+   "rep": 41,
+   "count": 1,
+   "members": [
+    41
+   ]
+  },
+  {
+   "rep": 73,
+   "count": 1,
+   "members": [
+    73
+   ]
+  },
+  {
+   "rep": 105,
+   "count": 1,
+   "members": [
+    105
+   ]
+  },
+  {
+   "rep": 89,
+   "count": 1,
+   "members": [
+    89
+   ]
+  },
+  {
+   "rep": 9,
+   "count": 1,
+   "members": [
+    9
+   ]
+  },
+  {
+   "rep": 25,
+   "count": 1,
+   "members": [
+    25
+   ]
+  },
+  {
+   "rep": 113,
+   "count": 1,
+   "members": [
+    113
+   ]
+  },
+  {
+   "rep": 49,
+   "count": 1,
+   "members": [
+    49
+   ]
+  },
+  {
+   "rep": 1,
+   "count": 1,
+   "members": [
+    1
+   ]
+  },
+  {
+   "rep": 81,
+   "count": 1,
+   "members": [
+    81
+   ]
+  },
+  {
+   "rep": 97,
+   "count": 1,
+   "members": [
+    97
+   ]
+  },
+  {
+   "rep": 17,
+   "count": 1,
+   "members": [
+    17
+   ]
+  },
+  {
+   "rep": 65,
+   "count": 1,
+   "members": [
+    65
+   ]
+  },
+  {
+   "rep": 33,
+   "count": 1,
+   "members": [
+    33
+   ]
+  },
+  {
+   "rep": 11,
+   "count": 1,
+   "members": [
+    11
+   ]
+  },
+  {
+   "rep": 75,
+   "count": 1,
+   "members": [
+    75
+   ]
+  },
+  {
+   "rep": 107,
+   "count": 1,
+   "members": [
+    107
+   ]
+  },
+  {
+   "rep": 43,
+   "count": 1,
+   "members": [
+    43
+   ]
+  },
+  {
+   "rep": 115,
+   "count": 1,
+   "members": [
+    115
+   ]
+  },
+  {
+   "rep": 27,
+   "count": 1,
+   "members": [
+    27
+   ]
+  },
+  {
+   "rep": 91,
+   "count": 1,
+   "members": [
+    91
+   ]
+  },
+  {
+   "rep": 99,
+   "count": 1,
+   "members": [
+    99
+   ]
+  },
+  {
+   "rep": 35,
+   "count": 1,
+   "members": [
+    35
+   ]
+  },
+  {
+   "rep": 51,
+   "count": 1,
+   "members": [
+    51
+   ]
+  },
+  {
+   "rep": 83,
+   "count": 1,
+   "members": [
+    83
+   ]
+  },
+  {
+   "rep": 123,
+   "count": 1,
+   "members": [
+    123
+   ]
+  },
+  {
+   "rep": 59,
+   "count": 1,
+   "members": [
+    59
+   ]
+  },
+  {
+   "rep": 19,
+   "count": 1,
+   "members": [
+    19
+   ]
+  },
+  {
+   "rep": 67,
+   "count": 1,
+   "members": [
+    67
+   ]
+  },
+  {
+   "rep": 3,
+   "count": 1,
+   "members": [
+    3
+   ]
+  },
+  {
+   "rep": 95,
+   "count": 1,
+   "members": [
+    95
+   ]
+  },
+  {
+   "rep": 31,
+   "count": 1,
+   "members": [
+    31
+   ]
+  },
+  {
+   "rep": 111,
+   "count": 1,
+   "members": [
+    111
+   ]
+  },
+  {
+   "rep": 47,
+   "count": 1,
+   "members": [
+    47
+   ]
+  },
+  {
+   "rep": 127,
+   "count": 1,
+   "members": [
+    127
+   ]
+  },
+  {
+   "rep": 63,
+   "count": 1,
+   "members": [
+    63
+   ]
+  },
+  {
+   "rep": 79,
+   "count": 1,
+   "members": [
+    79
+   ]
+  },
+  {
+   "rep": 15,
+   "count": 1,
+   "members": [
+    15
+   ]
+  }
+ ],
+ "site_classes": [
+  {
+   "rep": 125,
+   "count": 1,
+   "members": [
+    125
+   ]
+  },
+  {
+   "rep": 61,
+   "count": 1,
+   "members": [
+    61
+   ]
+  },
+  {
+   "rep": 93,
+   "count": 1,
+   "members": [
+    93
+   ]
+  },
+  {
+   "rep": 45,
+   "count": 1,
+   "members": [
+    45
+   ]
+  },
+  {
+   "rep": 27,
+   "count": 1,
+   "members": [
+    27
+   ]
+  },
+  {
+   "rep": 109,
+   "count": 1,
+   "members": [
+    109
+   ]
+  },
+  {
+   "rep": 11,
+   "count": 1,
+   "members": [
+    11
+   ]
+  },
+  {
+   "rep": 17,
+   "count": 1,
+   "members": [
+    17
+   ]
+  },
+  {
+   "rep": 29,
+   "count": 1,
+   "members": [
+    29
+   ]
+  },
+  {
+   "rep": 75,
+   "count": 1,
+   "members": [
+    75
+   ]
+  },
+  {
+   "rep": 91,
+   "count": 1,
+   "members": [
+    91
+   ]
+  },
+  {
+   "rep": 13,
+   "count": 1,
+   "members": [
+    13
+   ]
+  },
+  {
+   "rep": 77,
+   "count": 1,
+   "members": [
+    77
+   ]
+  },
+  {
+   "rep": 43,
+   "count": 1,
+   "members": [
+    43
+   ]
+  },
+  {
+   "rep": 107,
+   "count": 1,
+   "members": [
+    107
+   ]
+  },
+  {
+   "rep": 59,
+   "count": 1,
+   "members": [
+    59
+   ]
+  },
+  {
+   "rep": 37,
+   "count": 1,
+   "members": [
+    37
+   ]
+  },
+  {
+   "rep": 5,
+   "count": 1,
+   "members": [
+    5
+   ]
+  },
+  {
+   "rep": 81,
+   "count": 1,
+   "members": [
+    81
+   ]
+  },
+  {
+   "rep": 123,
+   "count": 1,
+   "members": [
+    123
+   ]
+  },
+  {
+   "rep": 101,
+   "count": 1,
+   "members": [
+    101
+   ]
+  },
+  {
+   "rep": 69,
+   "count": 1,
+   "members": [
+    69
+   ]
+  },
+  {
+   "rep": 49,
+   "count": 1,
+   "members": [
+    49
+   ]
+  },
+  {
+   "rep": 1,
+   "count": 1,
+   "members": [
+    1
+   ]
+  },
+  {
+   "rep": 65,
+   "count": 1,
+   "members": [
+    65
+   ]
+  },
+  {
+   "rep": 113,
+   "count": 1,
+   "members": [
+    113
+   ]
+  },
+  {
+   "rep": 117,
+   "count": 1,
+   "members": [
+    117
+   ]
+  },
+  {
+   "rep": 53,
+   "count": 1,
+   "members": [
+    53
+   ]
+  },
+  {
+   "rep": 85,
+   "count": 1,
+   "members": [
+    85
+   ]
+  },
+  {
+   "rep": 21,
+   "count": 1,
+   "members": [
+    21
+   ]
+  },
+  {
+   "rep": 35,
+   "count": 1,
+   "members": [
+    35
+   ]
+  },
+  {
+   "rep": 99,
+   "count": 1,
+   "members": [
+    99
+   ]
+  },
+  {
+   "rep": 33,
+   "count": 1,
+   "members": [
+    33
+   ]
+  },
+  {
+   "rep": 3,
+   "count": 1,
+   "members": [
+    3
+   ]
+  },
+  {
+   "rep": 97,
+   "count": 1,
+   "members": [
+    97
+   ]
+  },
+  {
+   "rep": 67,
+   "count": 1,
+   "members": [
+    67
+   ]
+  },
+  {
+   "rep": 115,
+   "count": 1,
+   "members": [
+    115
+   ]
+  },
+  {
+   "rep": 51,
+   "count": 1,
+   "members": [
+    51
+   ]
+  },
+  {
+   "rep": 83,
+   "count": 1,
+   "members": [
+    83
+   ]
+  },
+  {
+   "rep": 15,
+   "count": 1,
+   "members": [
+    15
+   ]
+  },
+  {
+   "rep": 79,
+   "count": 1,
+   "members": [
+    79
+   ]
+  },
+  {
+   "rep": 19,
+   "count": 1,
+   "members": [
+    19
+   ]
+  },
+  {
+   "rep": 47,
+   "count": 1,
+   "members": [
+    47
+   ]
+  },
+  {
+   "rep": 63,
+   "count": 1,
+   "members": [
+    63
+   ]
+  },
+  {
+   "rep": 127,
+   "count": 1,
+   "members": [
+    127
+   ]
+  },
+  {
+   "rep": 111,
+   "count": 1,
+   "members": [
+    111
+   ]
+  },
+  {
+   "rep": 31,
+   "count": 1,
+   "members": [
+    31
+   ]
+  },
+  {
+   "rep": 95,
+   "count": 1,
+   "members": [
+    95
+   ]
+  },
+  {
+   "rep": 121,
+   "count": 1,
+   "members": [
+    121
+   ]
+  },
+  {
+   "rep": 57,
+   "count": 1,
+   "members": [
+    57
+   ]
+  },
+  {
+   "rep": 89,
+   "count": 1,
+   "members": [
+    89
+   ]
+  },
+  {
+   "rep": 25,
+   "count": 1,
+   "members": [
+    25
+   ]
+  },
+  {
+   "rep": 41,
+   "count": 1,
+   "members": [
+    41
+   ]
+  },
+  {
+   "rep": 105,
+   "count": 1,
+   "members": [
+    105
+   ]
+  },
+  {
+   "rep": 73,
+   "count": 1,
+   "members": [
+    73
+   ]
+  },
+  {
+   "rep": 23,
+   "count": 1,
+   "members": [
+    23
+   ]
+  },
+  {
+   "rep": 87,
+   "count": 1,
+   "members": [
+    87
+   ]
+  },
+  {
+   "rep": 9,
+   "count": 1,
+   "members": [
+    9
+   ]
+  },
+  {
+   "rep": 55,
+   "count": 1,
+   "members": [
+    55
+   ]
+  },
+  {
+   "rep": 119,
+   "count": 1,
+   "members": [
+    119
+   ]
+  },
+  {
+   "rep": 103,
+   "count": 1,
+   "members": [
+    103
+   ]
+  },
+  {
+   "rep": 39,
+   "count": 1,
+   "members": [
+    39
+   ]
+  },
+  {
+   "rep": 71,
+   "count": 1,
+   "members": [
+    71
+   ]
+  },
+  {
+   "rep": 7,
+   "count": 1,
+   "members": [
+    7
+   ]
+  },
+  {
+   "rep": 24,
+   "count": 1,
+   "members": [
+    24
+   ]
+  },
+  {
+   "rep": 88,
+   "count": 1,
+   "members": [
+    88
+   ]
+  },
+  {
+   "rep": 72,
+   "count": 1,
+   "members": [
+    72
+   ]
+  },
+  {
+   "rep": 8,
+   "count": 1,
+   "members": [
+    8
+   ]
+  },
+  {
+   "rep": 104,
+   "count": 1,
+   "members": [
+    104
+   ]
+  },
+  {
+   "rep": 56,
+   "count": 1,
+   "members": [
+    56
+   ]
+  },
+  {
+   "rep": 40,
+   "count": 1,
+   "members": [
+    40
+   ]
+  },
+  {
+   "rep": 124,
+   "count": 1,
+   "members": [
+    124
+   ]
+  },
+  {
+   "rep": 120,
+   "count": 1,
+   "members": [
+    120
+   ]
+  },
+  {
+   "rep": 60,
+   "count": 1,
+   "members": [
+    60
+   ]
+  },
+  {
+   "rep": 112,
+   "count": 1,
+   "members": [
+    112
+   ]
+  },
+  {
+   "rep": 10,
+   "count": 1,
+   "members": [
+    10
+   ]
+  },
+  {
+   "rep": 28,
+   "count": 1,
+   "members": [
+    28
+   ]
+  },
+  {
+   "rep": 92,
+   "count": 1,
+   "members": [
+    92
+   ]
+  },
+  {
+   "rep": 96,
+   "count": 1,
+   "members": [
+    96
+   ]
+  },
+  {
+   "rep": 76,
+   "count": 1,
+   "members": [
+    76
+   ]
+  },
+  {
+   "rep": 12,
+   "count": 1,
+   "members": [
+    12
+   ]
+  },
+  {
+   "rep": 44,
+   "count": 1,
+   "members": [
+    44
+   ]
+  },
+  {
+   "rep": 74,
+   "count": 1,
+   "members": [
+    74
+   ]
+  },
+  {
+   "rep": 32,
+   "count": 1,
+   "members": [
+    32
+   ]
+  },
+  {
+   "rep": 42,
+   "count": 1,
+   "members": [
+    42
+   ]
+  },
+  {
+   "rep": 108,
+   "count": 1,
+   "members": [
+    108
+   ]
+  },
+  {
+   "rep": 48,
+   "count": 1,
+   "members": [
+    48
+   ]
+  },
+  {
+   "rep": 106,
+   "count": 1,
+   "members": [
+    106
+   ]
+  },
+  {
+   "rep": 52,
+   "count": 1,
+   "members": [
+    52
+   ]
+  },
+  {
+   "rep": 20,
+   "count": 1,
+   "members": [
+    20
+   ]
+  },
+  {
+   "rep": 116,
+   "count": 1,
+   "members": [
+    116
+   ]
+  },
+  {
+   "rep": 80,
+   "count": 1,
+   "members": [
+    80
+   ]
+  },
+  {
+   "rep": 0,
+   "count": 1,
+   "members": [
+    0
+   ]
+  },
+  {
+   "rep": 84,
+   "count": 1,
+   "members": [
+    84
+   ]
+  },
+  {
+   "rep": 64,
+   "count": 1,
+   "members": [
+    64
+   ]
+  },
+  {
+   "rep": 16,
+   "count": 1,
+   "members": [
+    16
+   ]
+  },
+  {
+   "rep": 122,
+   "count": 1,
+   "members": [
+    122
+   ]
+  },
+  {
+   "rep": 100,
+   "count": 1,
+   "members": [
+    100
+   ]
+  },
+  {
+   "rep": 68,
+   "count": 1,
+   "members": [
+    68
+   ]
+  },
+  {
+   "rep": 36,
+   "count": 1,
+   "members": [
+    36
+   ]
+  },
+  {
+   "rep": 4,
+   "count": 1,
+   "members": [
+    4
+   ]
+  },
+  {
+   "rep": 22,
+   "count": 1,
+   "members": [
+    22
+   ]
+  },
+  {
+   "rep": 58,
+   "count": 1,
+   "members": [
+    58
+   ]
+  },
+  {
+   "rep": 26,
+   "count": 1,
+   "members": [
+    26
+   ]
+  },
+  {
+   "rep": 70,
+   "count": 1,
+   "members": [
+    70
+   ]
+  },
+  {
+   "rep": 90,
+   "count": 1,
+   "members": [
+    90
+   ]
+  },
+  {
+   "rep": 6,
+   "count": 1,
+   "members": [
+    6
+   ]
+  },
+  {
+   "rep": 38,
+   "count": 1,
+   "members": [
+    38
+   ]
+  },
+  {
+   "rep": 86,
+   "count": 1,
+   "members": [
+    86
+   ]
+  },
+  {
+   "rep": 102,
+   "count": 1,
+   "members": [
+    102
+   ]
+  },
+  {
+   "rep": 54,
+   "count": 1,
+   "members": [
+    54
+   ]
+  },
+  {
+   "rep": 118,
+   "count": 1,
+   "members": [
+    118
+   ]
+  },
+  {
+   "rep": 114,
+   "count": 1,
+   "members": [
+    114
+   ]
+  },
+  {
+   "rep": 50,
+   "count": 1,
+   "members": [
+    50
+   ]
+  },
+  {
+   "rep": 98,
+   "count": 1,
+   "members": [
+    98
+   ]
+  },
+  {
+   "rep": 82,
+   "count": 1,
+   "members": [
+    82
+   ]
+  },
+  {
+   "rep": 18,
+   "count": 1,
+   "members": [
+    18
+   ]
+  },
+  {
+   "rep": 34,
+   "count": 1,
+   "members": [
+    34
+   ]
+  },
+  {
+   "rep": 66,
+   "count": 1,
+   "members": [
+    66
+   ]
+  },
+  {
+   "rep": 2,
+   "count": 1,
+   "members": [
+    2
+   ]
+  },
+  {
+   "rep": 30,
+   "count": 1,
+   "members": [
+    30
+   ]
+  },
+  {
+   "rep": 78,
+   "count": 1,
+   "members": [
+    78
+   ]
+  },
+  {
+   "rep": 14,
+   "count": 1,
+   "members": [
+    14
+   ]
+  },
+  {
+   "rep": 110,
+   "count": 1,
+   "members": [
+    110
+   ]
+  },
+  {
+   "rep": 94,
+   "count": 1,
+   "members": [
+    94
+   ]
+  },
+  {
+   "rep": 46,
+   "count": 1,
+   "members": [
+    46
+   ]
+  },
+  {
+   "rep": 62,
+   "count": 1,
+   "members": [
+    62
+   ]
+  },
+  {
+   "rep": 126,
+   "count": 1,
+   "members": [
+    126
+   ]
+  }
+ ],
+ "validation": {
+  "V1_N16": {
+   "bond_sig": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "site_sig": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bond_partition_identical": true,
+   "site_partition_identical": true
+  },
+  "V1_N32": {
+   "bond_sig": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "site_sig": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bond_partition_identical": true,
+   "site_partition_identical": true
+  },
+  "V2_N64_chi4": {
+   "direct": -1.2732427701121196,
+   "classed": -1.2732427701121196,
+   "diff": 0.0,
+   "bond_class_sizes": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "site_class_sizes": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2
+   ]
+  }
+ },
+ "within_class_spread": {
+  "bonds": 0.0,
+  "sites": 0.0
+ },
+ "surrogate": {
+  "chi": 2,
+  "seed": 11,
+  "note": "cone geometry is chi-independent; chi=2 surrogate gives the exact N=128 class partition for any chi"
+ }
+}
